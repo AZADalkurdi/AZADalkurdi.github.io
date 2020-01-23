@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(237, 234, 240, 0.986);
+}
+h1{
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+
+    width:250px;
+    height:300px;
+    float: right;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+p.p2{
+    
+    clear: right;
+    margin:20px;
+}
+li{
+    font-style: oblique;
+    font-size: 20px;
+}
+p{
+    font-style: oblique;
+
+    font-size: 20px;
+}
+
